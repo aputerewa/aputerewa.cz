@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Aputerewa
 tagline:          'Aputerewa'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Description comes here.'
 url:              http://aputerewa.github.io/
 baseurl:          /aputerewa.cz/
 

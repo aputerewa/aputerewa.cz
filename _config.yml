@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Aputerewa
 tagline:          'Aputerewa'
 description:      'Description comes here.'
-url:              http://aputerewa.github.io/
-baseurl:          /aputerewa.cz/
+url:              http://aputerewa.cz/
+baseurl:          /
 
 author:
   name:           'Mark Otto'
